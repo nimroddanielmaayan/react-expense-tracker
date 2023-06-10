@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
 
 //
-/* General Summary - Sections 4 to 17 */
+/* General Summary - Sections 4 + 5 */
 //
 
 /* App.js - general information */
